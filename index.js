@@ -64,7 +64,7 @@ fs.readFile(path.join(rootDir, 'staticMappings.txt'), 'utf8', (err, data) => {
     xml += `
 </redirect-urls>`
 
-    fs.writeFile('xml.xml', xml, (err) => {
+    fs.writeFile('redirect-urls.xml', xml, (err) => {
         if (err) throw err;
         console.log('Xml saved');
     });
