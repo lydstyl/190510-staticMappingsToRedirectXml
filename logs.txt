@@ -1,0 +1,85 @@
+LOGS TODO REPLACE xxx
+    <redirect-url uri="/contacto">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/aviso-legal">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/contacto">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/atencion-al-cliente">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/media/pdf/instrucciones/G937E.pdf">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/media/pdf/instrucciones/8480E.pdf">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/politica-cookies">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/aviso-legal">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/politica-privacidad">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/donde-comprar">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
+    <redirect-url uri="/donde-comprar">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>xxx</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+            
