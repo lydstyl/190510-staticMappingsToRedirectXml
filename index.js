@@ -5,12 +5,12 @@ const maper = {
     pid: 'product',
     cgid: 'category',
     cid: 'content',
-    fid: 'folder'
+    fdid: 'folder'
 }
 
 let logs = 'LOGS TODO REPLACE xxx'
 let linesInfos = []
-let xml = `<? xml version = "1.0" encoding = "UTF-8" ?>
+let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <redirect-urls xmlns="http://www.demandware.com/xml/impex/redirecturl/2011-09-01">`
 
 fs.readFile(path.join(rootDir, 'staticMappings.txt'), 'utf8', (err, data) => {
@@ -63,6 +63,8 @@ fs.readFile(path.join(rootDir, 'staticMappings.txt'), 'utf8', (err, data) => {
 
     xml += `
 </redirect-urls>`
+
+    xml = xml.replace(/&/g, '&amp;')
 
     fs.writeFile('redirect-urls.xml', xml, (err) => {
         if (err) throw err;

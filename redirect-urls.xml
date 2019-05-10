@@ -1,4 +1,4 @@
-<? xml version = "1.0" encoding = "UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <redirect-urls xmlns="http://www.demandware.com/xml/impex/redirecturl/2011-09-01">
     <redirect-url uri="/2020ce">
         <destination-id>2020CE</destination-id>
@@ -2228,805 +2228,805 @@
     </redirect-url>
     <redirect-url uri="/blog">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/10-productos-rebajas-chollos/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/3-tendencias-pelo-rubio-invierno/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/3-tipos-de-coleta-alta-para-triunfar-esta-temporada/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/6-peinados-6-disfraces-halloween/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/adios-encrespamiento/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/amigo-invisible/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/arriba-el-curly/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/cat/beauty-&-fashion/post/adios-encrespamiento">
+    <redirect-url uri="/blog/cat/beauty-&amp;-fashion/post/adios-encrespamiento">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/cat/beauty-&-fashion/post/amigo-invisible">
+    <redirect-url uri="/blog/cat/beauty-&amp;-fashion/post/amigo-invisible">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/cat/beauty-&-fashion/post/arriba-el-curly">
+    <redirect-url uri="/blog/cat/beauty-&amp;-fashion/post/arriba-el-curly">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/cat/beauty-&-fashion/post/black_and_beauty_friday">
+    <redirect-url uri="/blog/cat/beauty-&amp;-fashion/post/black_and_beauty_friday">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/cat/beauty-&-fashion/post/color-de-pelo-para-otono">
+    <redirect-url uri="/blog/cat/beauty-&amp;-fashion/post/color-de-pelo-para-otono">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/cat/beauty-&-fashion/post/las-chicas-del-cable">
+    <redirect-url uri="/blog/cat/beauty-&amp;-fashion/post/las-chicas-del-cable">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends/post/3-tendencias-pelo-rubio-invierno">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends/post/6-peinados-6-disfraces-halloween">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends/post/como-llevar-panuelo-en-la-cabeza">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends/post/malas-de-carnaval">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends/post/peinados-navidad">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends/post/PeinadosIrresistiblesParaQueBrilles">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/hair-trends/post/TodasQuierenFlequillo">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/animate-a-regalonear-para-chicas-listas-y-papas-coquetos">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/los-oscars-mas-vintage-un-homenaje-a-las-glamurosas-ondas-de-los-40">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/premio_wh">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/reto-un-truco-para-mi-pelo">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/regalo-el">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/regalo-el/post/BlackFridayenBaByliss">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/3-rutinas-para-pelo-bonito">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/3-tipos-de-coleta-alta-para-triunfar-esta-temporada">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/5-estilos-para-lucir-la-coleta-baja">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/Como-te-sientes-hoy-romantica-o-algo-salvaje">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/curl-secret-2-consejos">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/Curl-Secret-2-el-truqui-de-Vanesa-Romero">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/El_efecto_Top_Coat_ya_en_tu_cabello">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/el-mono-de-bailarina-el-peinado-estrella-de-este-otono">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/el-peinado-de-novia-de-pippa-middleton-paso-a-paso">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/falso-bob">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/ondas-surferas-faciles">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/como-llevar-panuelo-en-la-cabeza/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/consejos-lavar-cabello/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/Curl-Secret-2-el-truqui-de-Vanesa-Romero/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/dime-que-deporte-practicas-y-te-dire-que-peinado-tienes-que-llevar-al-gym/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/el-flequillo-del-verano/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/el-peinado-de-novia-de-pippa-middleton-paso-a-paso/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/errores-mas-comunes-al-planchar/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/estrena-look-pasate-al-flequillo/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/falso-bob/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/keratina_bueno/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/largos-4-anos/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/Las-ondas-favoritas-de-Sara-Sabate-con-Curl-Secret-2/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/peinados-navidad/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/peluqueria/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/premio_wh/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/Se-te-van-los-ojos-desde-que-lleva-esa-barba-larga-tan-irresistible/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/solo-necesitas-1-plancha/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/tag/paÃ±uelos/?dir=asc&order=user">
+    <redirect-url uri="/blog/tag/paÃ±uelos/?dir=asc&amp;order=user">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/TodasQuierenFlequillo/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/trucos-para-evitar-caida-cabello-primavera/">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/noticias-eventos-y-prensa">
         <destination-id>Conseils-femme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/me-estoy-quedando-calvo">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/CORTE-Y-ESTILO-POMPADOUR-PASO-A-PASO">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/DEJARSE-BARBA-NO-ES-DEJAR-DE-AFEITARSE">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/los-cabezones-llevan-barba/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/regalo-ella/post/este-ano-acierto-seguro-planchas-2-en-1-pure-metal-con-efecto-top-coat-y-curl-secret-2-felicidades-mama-babyliss-dia-de-la-madre">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/DEJARSE-BARBA-NO-ES-DEJAR-DE-AFEITARSE/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/los-calvos-ya-tienen-champu/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/top-3-deportistas-con-mas-estilo/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/grasas">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/asi-es-tu-cara-asi-debe-ser-tu-barba/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/5-formas-de-perder-pelo-sin-perder-estilo">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/barbaperfecta/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/tu-barba-se-perfila-asi">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/CORTE-Y-ESTILO-POMPADOUR-PASO-A-PASO/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/la-barba-ya-no-es-un-tabu/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/Vuelve-Prison-Break-y-el-estilo-inconfundible-de-Scofield-y-Burrows/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/bombero-modelo-deportista-de-riesgo-e-instagramer-Leo-rico-es-el-embajador-de-le-beard-designer/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/multi-10e837e-5-cabezales-para-un-styling-de-la-cabeza-a-los-pies/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/multi-10e837e-5-cabezales-para-un-styling-de-la-cabeza-a-los-pies">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cena-empresa/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/en-sus-marcas-listos-sin-vello/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/actualidad/post/bonnie-clyde-no-se-equivocaron-y-los-que-llevaron-barba-tampoco">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/actualidad/post/Vuelve-Prison-Break-y-el-estilo-inconfundible-de-Scofield-y-Burrows">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/tutoriales/post/asi-es-tu-cara-asi-debe-ser-tu-barba">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/champus-adecuados/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/los-barbudos-de-corazon-de-soybarbudo-com-prueban-y-aprueban-le-beard-designer/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/Ronaldo-el-mejor-jugador-de-europa-y-el-mejor-vestido/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/Aunque-parezca-raro-Nueva-York-dice-que-puedes-ponerte-un-pantalon-de-chandal-con-una-americana/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/canas-como-aliarte-con-tu-enemigo/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/carnaval-iconico/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/actualidad/post/largos-4-anos">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/actualidad/post/los-calvos-ya-tienen-champu">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/cat/beauty-&-fashion/post/regalos-de-ultima-hora-para-completos-despistados">
+    <redirect-url uri="/blog/cat/beauty-&amp;-fashion/post/regalos-de-ultima-hora-para-completos-despistados">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/bombero-modelo-deportista-de-riesgo-e-instagramer-Leo-rico-es-el-embajador-de-le-beard-designer">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/en-gamergy-se-va-a-liar">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/javier_rey_en_el_sillon_de_babylissmen">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/Noticias-eventos-y-prensa/post/los-barbudos-de-corazon-de-soybarbudo-com-prueban-y-aprueban-le-beard-designer">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/Aunque-parezca-raro-Nueva-York-dice-que-puedes-ponerte-un-pantalon-de-chandal-con-una-americana">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/barbaperfecta">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/canas-como-aliarte-con-tu-enemigo">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/cena-empresa/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/momento-de-transformacion-chewbacca/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cortedepelo/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/final-blanca-en-la-champions-league-caracter-con-distintos-estilos/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/javier_rey_en_el_sillon_de_babylissmen/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/JIM-CHAPMAN-PASA-DE-NIVEL-CON-EL-MULTI-10-E826E-DE-BABYLISSMEN/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/las-claves-del-gooming/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/lo-3-musicos-que-vas-a-querer-imitar/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/ponte-a-nadar/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/tu-barba-se-perfila-asi/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
-    <redirect-url uri="/blog/tag/Barba/?dir=asc&order=user">
+    <redirect-url uri="/blog/tag/Barba/?dir=asc&amp;order=user">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/te-estoy-viendo/">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
     <redirect-url uri="/blog/cat/trendy-style/post/cosas-inprescindibles-para-viajar">
         <destination-id>Conseils-homme</destination-id>
-        <destination-type>undefined</destination-type>
+        <destination-type>folder</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
